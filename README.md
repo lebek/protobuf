@@ -1,3 +1,13 @@
+# Note by Peter
+Forked simply to make build work in VS2017 and easily submodule in other
+repos as a dependency.
+
+Setup:
+1. Download gmock (see `./cmake/README.md`)
+2. Open `./cmake/` in VS2017
+3. Run `x86-Debug` and `x86-Release` builds
+4. Done
+
 Protocol Buffers - Google's data interchange format
 ===================================================
 
